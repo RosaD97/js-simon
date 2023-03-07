@@ -4,3 +4,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* Main */
+body{
+    background: #582840;
+}
+.ms_container{
+    background: linear-gradient(#d44350, #582840);
+    height: 200px;
+    width: 400px;
+    box-shadow: black;
+    box-shadow: 5px 5px 10px 0px #000000;
+    border-radius: 15px;
+}
+.ms_indovinati{
+    background: linear-gradient(#ef464b, #ce2949);
+    height: 200px;
+    width: 400px;
+    box-shadow: 5px 5px 10px 0px #000000;
+    border-radius: 15px;
+
+}
+.indovinati{
+    display: none;
+}
